@@ -448,20 +448,6 @@ SOFTWARE.
 
 ---
 
-## 📧 Contact & Support
-
-**Author**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-
-### Issues & Questions
-- 🐛 Report bugs via [GitHub Issues](https://github.com/<your-username>/loan-approval-predictor/issues)
-- 💬 Ask questions in [Discussions](https://github.com/<your-username>/loan-approval-predictor/discussions)
-- ⭐ Star this repo if you find it helpful!
-
----
-
 ## 🎯 Future Enhancements
 
 - [ ] Add user authentication system
@@ -515,14 +501,3 @@ git push origin main
 ---
 
 <div align="center">
-
-**Made with ❤️ for KBTG Portfolio**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
-[![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-orange.svg)](https://xgboost.ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[⬆ Back to Top](#-loan-approval-predictor-api)
-
-</div>
